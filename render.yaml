@@ -6,4 +6,4 @@ services:
     startCommand: "python main.py"
     envVars:
       - key: BOT_TOKEN
-        value: SEM_VLOŽ_SVŮJ_TOKEN
+        value: 7544773821:AAGmKqy_ma878YfFUm-fqpnMp-LXenSWaIU
